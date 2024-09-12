@@ -20,3 +20,9 @@
 <br>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniandries&" alt="daniandries" /></p>
+
+<style>
+    .icon {
+        margin: 0 10px;
+    }
+</style>
