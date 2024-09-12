@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Daniel Andries</h1>
+<h1 align="center"><b>Hola , soy Daniel Andries </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
