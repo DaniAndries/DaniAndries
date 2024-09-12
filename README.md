@@ -1,5 +1,19 @@
 <h1 align="center">Hola 👋, soy Daniel Andries</h1>
-<h3 align="center">Un desarrollador backend de Alicante, España.</h3>
+
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
+
+<p align="left">
+🎓 DESARROLLADOR DE APLICACIONES MULTIPLATAFORMA
+
+💻 Desarrollador Junior backend
+
+<!--📝 roles en el ámbito: desarrollador...-->
+
+📫 Contacto: **danielandrieshuertas@gmail.com**
+  </p>
+<br>
+<!--Intro end-->
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=daniandries&label=Profile%20views&color=0e75b6&style=flat" alt="daniandries" /> 
