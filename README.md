@@ -12,7 +12,6 @@
 
 📫 Contacto: **danielandrieshuertas@gmail.com**
   </p>
-<br>
 <!--Intro end-->
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
