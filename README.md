@@ -18,7 +18,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,java,flutter,mysql,git,github,docker,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,java,flutter,dart,mysql,git,github,docker,bash,linux&perline=12" />
   </a>
 </p>
 <br>
