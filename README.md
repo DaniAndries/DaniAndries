@@ -12,7 +12,7 @@
 
 📫 Contacto: **danielandrieshuertas@gmail.com**
 <br>
-📫 **[Linkedin](https://www.linkedin.com/in/daniel-andries-huertas-a620b9287/)**
+💼 **[Linkedin](https://www.linkedin.com/in/daniel-andries-huertas-a620b9287/)**
 
   </p>
 <!--Intro end-->
