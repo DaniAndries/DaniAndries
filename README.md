@@ -21,7 +21,7 @@ Soy un apasionado desarrollador de aplicaciones con un enfoque en el desarrollo 
 <h2>🔧 Tecnologías Conocidas</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,unity,java,cs,python,js,html,css,dart,flutter,mysql,git,github,docker,django,flask,bootstrap,figma,postman,notion,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,unity,java,cs,python,mysql,git,github,docker,figma,postman,bash,linux&perline=12" />
   </a>
 </p>
 
