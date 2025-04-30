@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📫 <b>Contacto:</b> danielandrieshuertas@gmail.com &nbsp;|&nbsp; 
+  📫 <b>Contacto:</b> <a href="mailto:danielandrieshuertas@gmail.com"><b>danielandrieshuertas@gmail.com</b></a> &nbsp;|&nbsp; 
   <a href="https://www.linkedin.com/in/daniel-andries-huertas-a620b9287/"><b>LinkedIn</b></a>
 </p>
 
