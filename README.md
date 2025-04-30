@@ -13,7 +13,7 @@
 
 <h2>🧑‍💻 Sobre mí</h2>
 <p align="left">
-Soy un apasionado desarrollador de aplicaciones con un enfoque en el desarrollo backend. Me gusta aprender nuevas tecnologías y mejorar mis habilidades constantemente. Siempre busco desafíos que me permitan crecer profesional y personalmente.
+Soy un desarrollador de aplicaciones junior con un enfoque en el desarrollo backend. Me gusta aprender nuevas tecnologías y mejorar mis habilidades constantemente. Siempre busco desafíos que me permitan crecer profesional y personalmente.
 </p>
 
 ---
